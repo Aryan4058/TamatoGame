@@ -1,6 +1,6 @@
 # TamatoGame
 
-Game tutorial:
+Game Playing Instructions:
 1.	Enter your Name for Login.
 2.	Press ‘ok’ button to log into the game
 3.	Once logged in, enter a answer to the given problem and click the ‘Submit’ button
